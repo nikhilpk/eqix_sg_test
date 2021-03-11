@@ -2,7 +2,7 @@
   "openapi" : "3.0.0",
   "info" : {
     "title" : "Shipments",
-    "description" : "All inbound and outbound shipments must be scheduled 24 hours in advance. Deliveries during non-standard business hours (after hours or weekend deliveries) require prior approval and will be billed to your account as an Equinix Smart Hands charge. You must communicate in writing any special shipping or packing instructions and if special packaging material is required. If your shipments are international, Equinix recommends that you hire a U.S. Customs Broker before shipping your equipment to and from our facilities. It is your responsibility to arrange for delivery to and from our facilities and customs clearance at the port of entry.",
+    "description" : "Nikhil All inbound and outbound shipments must be scheduled 24 hours in advance. Deliveries during non-standard business hours (after hours or weekend deliveries) require prior approval and will be billed to your account as an Equinix Smart Hands charge. You must communicate in writing any special shipping or packing instructions and if special packaging material is required. If your shipments are international, Equinix recommends that you hire a U.S. Customs Broker before shipping your equipment to and from our facilities. It is your responsibility to arrange for delivery to and from our facilities and customs clearance at the port of entry.",
     "termsOfService" : "https://developer.equinix.com/agreement",
     "contact" : {
       "name" : "Equinix API Support",
